@@ -2,4 +2,4 @@
 
 ![COMP](./image/newplot (1).png)
 
-![LUSD](./image/newplot (2).png)
+![LUSD](code/image/newplot (1).png)
