@@ -1,4 +1,4 @@
-## New  Visualization (Updated on Nov.21 EST)
+## New  Visualization
 
 ![AAVE](https://github.com/yutongquan/portfolio/blob/main/code/image/figure%201.png)
 
