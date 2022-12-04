@@ -7,19 +7,19 @@
 - **Project Summary**: Based on the research on [Blockchain Decentralization](https://arxiv.org/abs/2205.04256) by Luyao Zhang, Xinshi Ma, and Yulin Liu, this project aims to generate a new visualization for the tokens' decentralization index of "AAVE", "COMP", and "LUSD". We used the Python Plotly to generate 2D Histogram Contour plots for the 30-day moving average of each token to show the dencity of the decentralization index.
 
 ## Table of Contents
-- data
-- code
-- spotlight
+- [data](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation/tree/main/data)
+- [code](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation/tree/main/code)
+- [spotlight](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation/tree/main/spotlight)
 
 ## Data
 - Data Source: https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_TokenIndex
-- Queried Data
-- Processed Data
+- [Queried Data](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation/tree/main/data/Queried_Data)
+- [Processed Data](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation/tree/main/data/Processed_Data)
 
 ## Code
-- Query Data
-- Process Data
-- Analyze Data
+- [Query Data](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation/blob/main/code/Query_Data.ipynb)
+- [Process Data](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation/blob/main/code/Process_Data.ipynb)
+- [Analyze Data](https://github.com/yutongquan/STATS201_Problem_Set_2_Explanation/blob/main/code/Analyze_Data.ipynb)
 
 ## Spotlight
 
