@@ -51,5 +51,3 @@ Figure No.3 represents the dencity of the LUSD token's 30-day moving average of 
 [SoK: Blockchain Decentralization](https://arxiv.org/abs/2205.04256)
 ### Literature
 Zhang, Luyao, Xinshi Ma, and Yulin Liu. 2022. “SoK: Blockchain Decentralization.” ArXiv:2205.04256 [Cs, Econ, Q-Fin], May. https://arxiv.org/abs/2205.04256.
-
-
