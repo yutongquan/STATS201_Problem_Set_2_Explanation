@@ -9,7 +9,7 @@
 - spotlight
 
 ## Data
-- Data Source:
+- Data Source: https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_TokenIndex
 - Queried Data
 - Processed Data
 
