@@ -4,7 +4,7 @@
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set 2 (Machine Learning for Explanation Section) for STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: First, I would like to express my deepest gratitude to Prof. Luyao Zhang for her generous and inspiring instrutions on machine learning method for data explanation. Then, I am also thankful to Prof. Luyao Zhang, Xinshi Ma, and Yulin Liu for their innovative research on [Blockchain Decentralization](https://arxiv.org/abs/2205.04256) and the data source they provided. 
-- **Project Summary**: Based on the research on [Blockchain Decentralization](https://arxiv.org/abs/2205.04256) by Luyao Zhang, Xinshi Ma, and Yulin Liu, this project aims to generate a new visualization for the tokens' decentralization index of "AAVE", "COMP", and "LUSD". We use the Python Plotly to generate the figure for the 30-day moving average of each token to show the dencity of the decentralization index.
+- **Project Summary**: Based on the research on [Blockchain Decentralization](https://arxiv.org/abs/2205.04256) by Luyao Zhang, Xinshi Ma, and Yulin Liu, this project aims to generate a new visualization for the tokens' decentralization index of "AAVE", "COMP", and "LUSD". We used the Python Plotly to generate 2D Histogram Contour  plots for the 30-day moving average of each token to show the dencity of the decentralization index.
 
 ## Table of Contents
 - data
